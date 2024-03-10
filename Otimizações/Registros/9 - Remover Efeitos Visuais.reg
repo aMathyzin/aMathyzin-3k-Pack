@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"VisualEffects"="2"
+"MenuShowDelay"="0"
+"ListBoxSmoothScrolling"="0"
+"AnimateWindows"="0"
+"AnimationShiftKey"="0"
+"CursorBlinkRate"="0"

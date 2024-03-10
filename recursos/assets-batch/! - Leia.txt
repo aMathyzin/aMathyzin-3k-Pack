@@ -1,0 +1,5 @@
+Oi! Você achou nossa pasta oculta onde ficam as dependencias do ".Bat" principal! Isso serve para ele funcionar direitinho, do jeito que deveria.
+Caso queira manter tudo funcionando do jeito que certo, por favor não altere nada aqui à menos que saiba o que está fazendo!
+E se você realmente sabe o que está fazendo, talvez você poderia trabalhar conosco, hein? 
+
+Caso queira saber mais, entre em contato com a gente no nosso discord https://amathyzin.tech/discord
