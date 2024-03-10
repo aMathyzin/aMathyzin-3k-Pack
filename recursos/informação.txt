@@ -1,0 +1,6 @@
+Bom, você deve estar se perguntando: "O que é essa pasta oculta chamada recursos e o que ela faz?"
+
+A resposta para isso é bem simples. Essa pasta contém os arquivos que são necessários para o menu de otimização e o arquivo de leia-me funcionarem do jeito que deveriam. Por isso, você não deve alterar nada nesta pasta à menos que saiba o que está fazendo :v vamos manter tudo funcionando como deveria, okay?
+
+Caso saiba o que está fazendo e pretenda alterar configurações aqui, talvez você possa trabalhar conosco!
+Caso queira mais informações, entre em contato com a gente no discord https://amathyzin.tech/discord
