@@ -1,6 +1,6 @@
 # aMathyzin 3K Pack - Otimização de Windows
 
-Bem-vindo ao repositório do aMathyzin 3K Pack, um pacote de otimização para o Windows. Este pacote foi criado para ajudar a melhorar o desempenho do seu sistema operacional Windows.
+Bem-vindo ao repositório do aMathyzin 3K Pack, um pacote de otimização para o Windows. Este pack foi criado para ajudar a melhorar o desempenho do seu sistema operacional Windows.
 
 ## Tutorial
 
